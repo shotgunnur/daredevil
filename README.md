@@ -16,7 +16,7 @@
 <details>
     <summary>about me</summary>
 <div align="center">
-  <p> matthew / eddie / sarge / enzio </p>
+  <p> matthew / march </p>
   <p> he/ask pronouns </p>
   <p> transmasc butchboy </p>
   
