@@ -1,15 +1,13 @@
-<p align=center> <img src="https://i.postimg.cc/VvzjX3kf/masks.jpg" height=337.5 width=600> </p>
-
-<p align=center> <img src="https://i.postimg.cc/zGvFtZSC/the-tip.webp"> </p>
+<p align=center> <img src="https://i.postimg.cc/rw03S4Qb/yayaya.jpg" height=501.5 width=640> </p>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=630a10&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bgjt4lpjj75seup5dnsdohowk&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=CB00CF&bar_color_cover=false">
   </a>
 </p>
 <div align = "center">
   
-  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=630a10&label=+++shotgun+shells+++)
+  ![](https://komarev.com/ghpvc/?username=shotgunnur&style=plastic&color=CB00CF&label=+++shooting+stars+++)
   </div>
 
 <div align=center>
