@@ -1,4 +1,4 @@
-<p align=center> <img src="https://i.postimg.cc/R0CPgnRm/yay.jpg" height=501.5 width=640> </p>
+<p align=center> <img src="https://i.postimg.cc/WznfFg8J/hikira.gif" height=402 width=720> </p>
   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
